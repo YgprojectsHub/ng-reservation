@@ -10,5 +10,4 @@ These tools used in this project ->
     "firebase": "^10.1.0",
     "moment": "^2.30.1",
     "moment-timezone": "^0.5.44",
-    "ngx-pagination": "^6.0.3",
     "tailwindcss": "^3.4.0"
